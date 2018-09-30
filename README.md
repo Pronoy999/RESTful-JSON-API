@@ -1,7 +1,9 @@
 # RESTful-JSON-API
 
 This is a project for a RESTFul JSON API. 
-copyright 2018 Pronoy Mukherjee
+
+# License
+Copyright 2018 Pronoy Mukherjee
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
